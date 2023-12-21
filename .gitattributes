@@ -1,0 +1,12 @@
+ClashVerge.zip filter=lfs diff=lfs merge=lfs -text
+ClashX.Pro.zip filter=lfs diff=lfs merge=lfs -text
+ClashX.zip filter=lfs diff=lfs merge=lfs -text
+OpenClash.zip filter=lfs diff=lfs merge=lfs -text
+metacubexd.zip filter=lfs diff=lfs merge=lfs -text
+Clash.for.Android.zip filter=lfs diff=lfs merge=lfs -text
+Clash.for.Windows.zip filter=lfs diff=lfs merge=lfs -text
+ClashCorePremium.zip filter=lfs diff=lfs merge=lfs -text
+ClashMetaForAndroid.zip filter=lfs diff=lfs merge=lfs -text
+ClashX.Meta.zip filter=lfs diff=lfs merge=lfs -text
+Clash.Meta.zip filter=lfs diff=lfs merge=lfs -text
+ClashCore.zip filter=lfs diff=lfs merge=lfs -text
